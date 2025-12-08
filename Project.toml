@@ -1,6 +1,6 @@
 name = "Logging2"
 uuid = "18cd0bd4-3461-488c-9dae-1a490b172243"
-authors = ["Chris Foster <chris42f@gmail.com> and contributors"]
+authors = ["Claire Foster <aka.c42f@gmail.com> and contributors"]
 version = "0.1.1"
 
 [deps]
